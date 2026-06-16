@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arullls  
+- 👋 Hi, I’m @Sahrul 
 - 👀 I’m interested in web development, editing video, dan suka main game  
 - 🌱 I’m currently learning Laravel-vue
 - 💞️ I’m looking to collaborate on creative projects seperti website komunitas
